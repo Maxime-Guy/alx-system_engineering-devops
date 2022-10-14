@@ -1,0 +1,1 @@
+Bash sript about processes and signals
